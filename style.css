@@ -1,0 +1,54 @@
+body{
+    background-color: #402626;
+    font-family: 'Bree Serif', serif;
+    transition: background-image 2s ease-in-out;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: 0 auto;
+    width: 100%;
+    color: #ffffff;
+    
+}
+
+.titulo{
+    height: 2em;
+    background-color: #0D0D0D;
+    color: #ffffff;
+    text-align: center ;
+    margin: 0 auto;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 5em;
+    padding: 0.4em;
+}
+
+.barra{
+    font-size: 1em;
+}
+
+.container{
+    color: #ffffff;
+    margin-top: 2em;
+    margin-bottom: 4em;
+}
+
+.card {
+    /* Estilos base do card */
+    transition: transform 0.3s ease-in-out; /* Transição suave para a escala */
+  }
+  
+  .card:hover {
+    transform: scale(1.03); /* Aumenta a escala em 10% quando o mouse está sobre o card */
+  }
+
+.nav-item{
+    font-size: 1.7em;
+    margin-right: 1em;
+    
+}
+
+
+
+.card-title{font-size: 2em;}
+
+
+
